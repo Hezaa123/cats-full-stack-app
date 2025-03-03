@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Persian",
+    "image": "/persian.png",
+    "characteristic": "Affectionate, loyal",
+    "size": "Medium",
+    "furType": "Long",
+    "color": "White, black, blue, cream, red, etc.",
+    "description": "The Persian cat is a long-haired breed of cat characterized by its round face and short muzzle."
+  },
+  {
+    "id": 2,
+    "name": "Siamese",
+    "image": "/siamese.png",
+    "characteristic": "Social, vocal",
+    "size": "Medium",
+    "furType": "Short",
+    "color": "Seal, chocolate, blue, lilac",
+    "description": "The Siamese cat is one of the first distinctly recognized breeds of Asian cat."
+  },
+  {
+    "id": 3,
+    "name": "Maine Coon",
+    "image": "/maine-coon.png",
+    "characteristic": "Friendly, intelligent",
+    "size": "Large",
+    "furType": "Long",
+    "color": "Brown tabby, black, white, blue, red, etc.",
+    "description": "The Maine Coon is one of the largest domesticated cat breeds. It has a distinctive physical appearance and is known for its friendly and intelligent nature."
+  },
+  {
+    "id": 4,
+    "name": "Bengal",
+    "image": "/bengal.png",
+    "characteristic": "Active, playful",
+    "size": "Medium to large",
+    "furType": "Short",
+    "color": "Spotted or marbled",
+    "description": "The Bengal cat is a domesticated cat breed created from hybrids of domestic cats and the Asian leopard cat."
+  },
+  {
+    "id": 5,
+    "name": "Lion",
+    "image": "/lion.png",
+    "characteristic": "Social, powerful",
+    "size": "Large",
+    "furType": "Short",
+    "color": "Tawny yellow",
+    "description": "The lion is a species in the family Felidae and a member of the genus Panthera. It is most recognisable for its muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail."
+  },
+  {
+    "id": 6,
+    "name": "Tiger",
+    "image": "/tiger.png",
+    "characteristic": "Solitary, powerful",
+    "size": "Large",
+    "furType": "Short",
+    "color": "Orange with black stripes",
+    "description": "The tiger is the largest species among the Felidae and classified in the genus Panthera. It is most recognisable for its dark vertical stripes on orange-brown fur with a lighter underside."
+  },
+  {
+    "id": 7,
+    "name": "Leopard",
+    "image": "/leopard.png",
+    "characteristic": "Solitary, agile",
+    "size": "Medium to large",
+    "furType": "Short",
+    "color": "Golden with black rosettes",
+    "description": "The leopard is one of the five extant species in the genus Panthera, a member of the Felidae. It is characterized by its well-camouflaged fur, opportunistic hunting behavior, broad diet, and strength."
+  },
+  {
+    "id": 8,
+    "name": "Cheetah",
+    "image": "/cheetah.png",
+    "characteristic": "Fast, agile",
+    "size": "Medium to large",
+    "furType": "Short",
+    "color": "Tawny with black spots",
+    "description": "The cheetah is a large cat native to Africa and central Iran. It is the fastest land animal, capable of running at 80 to 128 km/h (50 to 80 mph)."
+  },
+  {
+    "id": 9,
+    "name": "Snow Leopard",
+    "image": "/snow-leopard.png",
+    "characteristic": "Solitary, elusive",
+    "size": "Medium to large",
+    "furType": "Thick, long",
+    "color": "Smoky-gray with black rosettes and spots",
+    "description": "The snow leopard is a large cat native to the mountain ranges of Central and South Asia. It is known for its beautiful, thick fur and elusive nature."
+  },
+  {
+    "id": 10,
+    "name": "Sphynx",
+    "image": "/sphynx.png",
+    "characteristic": "Affectionate, energetic",
+    "size": "Medium",
+    "furType": "Hairless",
+    "color": "Variety of colors and patterns",
+    "description": "The Sphynx cat is a breed of cat known for its lack of coat (fur). It is known for its extroverted behavior and high level of energy."
+  }
+]
